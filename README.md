@@ -12,7 +12,7 @@ Configure the amiami_notifer.rb file by inputting your Gmail 'email'(it's called
 You will also need to configure your Gmail settings to allow 3rd party to send email on your behalf. You can follow the instructions in this video: https://www.youtube.com/watch?v=D-NYmDWiFjU
 
 To run this, go to your terminal and run the following:
-ruby path/to/amiami_notifier.rb "<LINK OF THE SEARCH RESULT>"
+ruby path/to/amiami_notifier.rb "[LINK OF THE SEARCH RESULT]"
   
 EXAMPLE:
 ruby Desktop/amiami_notifier/amiami_notifier.rb "https://www.amiami.com/eng/search/list/?s_keywords=Alice%20Ques%20q&s_st_condition_flg=1"
